@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>IMG_20190505_114510_2 resized.jpg</filename>
+	<path>C:\Users\DavidIsaac\Desktop\images\train\IMG_20190505_114510_2 resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fulokoja_female_student</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>104</ymin>
+			<xmax>131</xmax>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fulokoja_male_student</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>70</ymin>
+			<xmax>270</xmax>
+			<ymax>298</ymax>
+		</bndbox>
+	</object>
+</annotation>

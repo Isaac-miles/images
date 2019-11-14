@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20190921_175229_6 resized.jpg</filename>
+	<path>C:\Users\DavidIsaac\Desktop\images\test\IMG_20190921_175229_6 resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fulokoja_female_student</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>134</xmin>
+			<ymin>6</ymin>
+			<xmax>216</xmax>
+			<ymax>260</ymax>
+		</bndbox>
+	</object>
+</annotation>

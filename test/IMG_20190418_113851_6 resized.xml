@@ -1,0 +1,50 @@
+<annotation>
+	<folder>test</folder>
+	<filename>IMG_20190418_113851_6 resized.jpg</filename>
+	<path>C:\Users\DavidIsaac\Desktop\images\test\IMG_20190418_113851_6 resized.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Fulokoja_male_student</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>29</ymin>
+			<xmax>101</xmax>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fulokoja_male_student</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>39</ymin>
+			<xmax>179</xmax>
+			<ymax>271</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fulokoja_male_student</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>181</xmin>
+			<ymin>27</ymin>
+			<xmax>269</xmax>
+			<ymax>274</ymax>
+		</bndbox>
+	</object>
+</annotation>
